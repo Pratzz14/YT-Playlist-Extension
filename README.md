@@ -2,6 +2,8 @@
 # YT-Playlist-Extension
 ### Youtube Playlist Chrome Extension - Get total time of playlist
 
+![DEMO](demo.gif)
+
 Here I have created a google chrome extension that calls Youtube data v3 API, to calculate the total time of the playlist at different speeds. The steps use this extension:<br>
 
 1. Download the zip of this repository.
