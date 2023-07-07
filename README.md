@@ -6,7 +6,7 @@
 Demo: https://mrpratik.tech/yt-playlist/ 
 <br>
 
-![DEMO](demo.gif)
+<img src="demo.gif" width="426" height="240"/>
 
 Here I have created a google chrome extension that calls Youtube data v3 API, to calculate the total time of the playlist at different speeds. The steps use this extension:<br>
 
