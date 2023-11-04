@@ -3,7 +3,7 @@
 ### Youtube Playlist Chrome Extension - Get total time of playlist
 
 
-Demo: https://mrpratik.tech/yt-playlist/ 
+Demo: https://mrpratik.in/yt-playlist/ 
 <br><br>
 
 ![DEMO](demo.gif)
